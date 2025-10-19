@@ -1,0 +1,9 @@
+# CSP Tight Test Case - requires all k colors
+# Complete graph K4 (requires all 4 colors)
+colors=4
+1,2
+1,3
+1,4
+2,3
+2,4
+3,4

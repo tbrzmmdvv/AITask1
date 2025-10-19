@@ -1,0 +1,7 @@
+# CSP Small Test Case - 3-colorable graph
+# Simple cycle with a tail (3-colorable with 3 colors)
+colors=3
+1,2
+2,3
+3,1
+3,4
